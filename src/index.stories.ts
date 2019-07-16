@@ -102,7 +102,7 @@ import { Document20Module } from "@carbon/icons-angular/lib/document/20";
 					<svg ibmIconDocument20 class="bx--btn__icon"></svg>
 				</a>
 				&nbsp;
-				<a ibmButton="primary" class="banner__btn" href="https://github.com/carbon-design-system/carbon-angular-starter" target="_blank">
+				<a ibmButton="primary" class="banner__btn" href="https://github.com/alvarigno/carbon-components-angular" target="_blank">
 					Starter App
 					<svg ibmIconBee20 class="bx--btn__icon"></svg>
 				</a>

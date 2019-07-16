@@ -143,6 +143,7 @@
   },
   "dependencies": {
     "@carbon/utils-position": "1.0.0",
+    "build-docs": "^2.2.0",
     "flatpickr": "4.6.1"
   }
 }
