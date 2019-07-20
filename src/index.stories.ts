@@ -97,7 +97,7 @@ import { Document20Module } from "@carbon/icons-angular/lib/document/20";
 			<h2 class="banner__subtitle">An Angular implementation of the Carbon Design System</h2>
 
 			<div style="display: inline">
-				<a ibmButton="secondary" class="banner__btn" href="documentation/index.html" target="_blank">
+				<a ibmButton="secondary" class="banner__btn" href="http://127.0.0.1:8887/docs/documentation/index.html" target="_blank">
 					Documentation
 					<svg ibmIconDocument20 class="bx--btn__icon"></svg>
 				</a>
